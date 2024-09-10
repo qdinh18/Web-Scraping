@@ -28,7 +28,7 @@ Additionally, ensure you have PostgreSQL installed and set up on your machine.
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/qdinh18/amazon-laptop-data-engineering.git
+git clone https://github.com/qdinh18/Web-Scraping
 ```
 
 2. **Set up the PostgreSQL database**:
